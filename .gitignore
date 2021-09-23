@@ -1,9 +1,10 @@
 *.aux
 *.bbl
 *.blg
+*.fdb_latexmk
+*.fls 
 *.log
 *.log
 *.out
 *~
 .DS_Store
-12-design.pdf
