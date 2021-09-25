@@ -44,4 +44,5 @@ Simlarly, I think processes that are conveyed in flow charts or diagrams need to
 - [Yim Register](https://students.washington.edu/yreg/)
 - [Maya Gans](https://maya.rbind.io/)
 - [Greg Wilson](http://third-bit.com)
-  [Elizabeth (Liz) Hare](http://doggenetics.com)
+- [Elizabeth (Liz) Hare](http://doggenetics.com)
+- [Silvia Canelon](https://silvia.rbind.io/)
