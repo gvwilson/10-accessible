@@ -7,6 +7,8 @@
 - One is on the autistic spectrum
 - Others may have difficulty hearing (a growing problem as video instruction becomes more common)
 - Or may have anxiety, or poor comprehension of English (or whatever language you're using)
+- (Silvia) Challenges or preferences may change depending on the reader's physical environment, reading device/technology, state of mind, etc. Give readers choices in how they consume information (Silvia: this could potentially be its own tip/rule; this relates to Liz's comments in [rule 4](#4-liz-data-visualization-has-often-been-thought-of-in-terms-of-blindness-or-low-vision-we-say-that-if-its-too-hard-to-write-an-alt-text-for-your-graph-its-probably-too-complex-ive-come-to-understand-that-the-cognitive-load-of-figuring-out-complex-visualizations-is-also-a-barrier-for-people-with-neurodivergence-per-conversation-with-silvia-canelón)).
+- (Silvia) Your first readers in the submission process will be journal Editors and Reviewers, and they may face challenges of their own.
 
 ## 2. Design for print and the web.
 
@@ -20,6 +22,8 @@
 
  (Liz) [Microsoft](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) now has accessibility checking features in Word and maybe other Office software. 
  Understand that these tools are not infallable, and often don't point out if a page is just hard to understand the layout and logic of because a screen reader presents information linearly regardless of how it appears on the screen. Ideally, humans would be engaged in accessibility testing, but their expertise needs to be compensated.
+ 
+(Silvia) [As shared by Liz on Twitter](https://twitter.com/DogGeneticsLLC/status/1442555621170192386?s=20), PDFs found in the wild are notorious for being inaccessible. If you _have_ to submit a document as a PDF (for example, a [supplementary document](#8-silvia-ensure-that-supplemental-information-and-data-are-accessible)), ensure that any accessibility practices you implement in the original document are not lost in the conversion process. WebAIM provides techniques for how to [convert to PDF and maintain accessibility](https://webaim.org/techniques/acrobat/converting#save).
 
 ## 4. (Liz) Data Visualization has often been thought of in terms of blindness or low vision. We say that if it's too hard to write an alt-text for your graph, it's probably too complex. I've come to understand that the cognitive load of figuring out complex visualizations is also a barrier for people with neurodivergence (per conversation with Silvia Canelón). 
 Since most publishers don't have space for alt-text anyway, complete verbal descriptions of findings in the results section  is suggested (this is what I aim for in my publications, although most of them don't have data viz.) This approach will help all sorts of people. This is discussed in this preprint [Making Scientific Content More Accessible](https://www.authorea.com/users/152134/articles/206076-making-scientific-content-more-accessible)  
@@ -36,7 +40,16 @@ Especially in computational social science or human computer interaction (HCI), 
 ## 7. (Yim) Be excrutiatingly clear on social aspects of your methods.
 - working on this later, but basically it has to do with when I go to replicate some methods, there are social questions I have like: how did you really recruit? how did you decide which questions to ask? which parts were exploratory and which parts were answering a hypothesis or research question? who did what? Who is "we"? Not only will this be helpful for autistics but for any scientist ever
 
-## 8. FIXME
+## 8. (Silvia) Ensure that supplemental information and data are accessible.
+
+- Implement accessibility practices in the creation of any supplementary documents and treat them with the same care as the manuscript.
+- Journals will vary in their editing and publishing practices and often publish supplementary documents "as is," which means you get to make the editorial and design decisions that readers will experience while reading
+- As mentioned in [rule 3](https://github.com/gvwilson/10-accessible#3-use-tools-to-check-for-accessibility-issues), make sure the supplementary documents are formatted to take advantage of proper semantic formatting.
+- During the revision/submission process, ask the journal to publish the version of the supplementary file that is most accessible (e.g. if you submit an accessible Word document and are concerned the journal might publish an inaccessible PDF conversion, specify that you'd like the Word document published and why). Alternatively, consider housing the supplementary information and data in HTML format in an online repository or website (as per [rule 2](#2-design-for-print-and-the-web)) that can be linked somewhere in the manuscript or reference list.
+- Include a clear tabular representation of the key data points for any data visualizations included ([example: WebAIM findings from screen reader user survey](https://webaim.org/projects/screenreadersurvey9/#disabilitytypes)), and reference them within the manuscript along with the figure reference and/or in the figure caption (e.g. Figure 2, eTable 2)
+- Include context on the first page of the supplementary document (possibly also in the header or footer), like the manuscript title, journal, and first author so that the reader can always check which manuscript the supplementary document corresponds to.
+- Include a functional table of contents in the first page of the supplementary document. Use it to provide direct links to headings that correspond to each figure and/or table. This will help readers navigate the document and quickly find what they are looking for.
+- Use an accessible font face and font size throughout the document. Gareth Ford Williams from [The Readibility Group](https://www.thereadability.group/) has written [guidelines on how to make more informed font choices](https://medium.com/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0). The Readibility Group has also shared findings from a survey study about font preferences which included 2000+ participants. Among these were participants with dyslexia characteristics and participants with poor near vision. The talk is available online and titled [Don't Believe the Type!](https://youtu.be/h8IOqUl1zII?t=1029)
 
 ## 9. FIXME
 
