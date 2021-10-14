@@ -40,9 +40,14 @@
 
 - (Greg) If people can't afford to read the paper, it isn't "accessible". This isn't just a problem for researchers from less affluent countries: many non-elite institutions cannot afford access these days either, and practitioners outside academia usually don't have it, so open access is a must-have for true accessibility.
 
-## 7. FIXME
+## 7. (Yim) Avoid general statements about how "we" as people tend to socialize or engage with the world.
 
-## 8. FIXME
+Especially in computational social science or human computer interaction (HCI), I often read a lot of statements like "FIXME"
+- working on this later after I find some quotes to demonstrate what I mean; I often come across statements about how people like to interact, or how we all want a similar thing (like being closer to one another or wanting more face to face interaction or wanting to be more productive or things like that). Well, I don't. I'll elaborate more once I find more examples, but it has to do with assuming "we" as people all desire the same kinds of social connection or have the same kind of expectations for social interactions.
+
+## 8. (Yim) Be excrutiatingly clear on social aspects of your methods.
+
+- working on this later, but basically it has to do with when I go to replicate some methods, there are social questions I have like: how did you really recruit? how did you decide which questions to ask? which parts were exploratory and which parts were answering a hypothesis or research question? who did what? Who is "we"? Not only will this be helpful for autistics but for any scientist ever
 
 ## 9. FIXME
 
