@@ -74,6 +74,7 @@
 ## Contributors
 
 - [Silvia Canelón](https://silvia.rbind.io/)
+- [Maya Gans](https://maya.rbind.io/)
 - [Elizabeth (Liz) Hare](http://doggenetics.com)
 - [Yim Register](https://students.washington.edu/yreg/)
 - [JooYoung Seo](https://ischool.illinois.edu/people/jooyoung-seo)
