@@ -57,27 +57,60 @@ selecting a link on a touch screen e-reader may be difficult or impossible.
 Appendix 1 summarizes its recommendations,
 and can be used as a checklist.
 
-## Tip 3: Use tools to check for accessibility issues.
+## Tip 3: Design for the web but check the print version.
 
-FIXME
+The paper of the future might be an interactive computational notebook,
+but the paper of today is still exactly that:
+paper.
+Even disregarding accessibility issues,
+saving an HTML page as a PDF usually doesn't produce an attractive result.
+Whether you use WYSIWYG tools like Microsoft Word and Google Docs,
+or document compilers like LaTeX and R Markdown,
+you should save both HTML and PDF directly
+rather than trying to convert one to the other.
 
-- E.g., [WebAIM WAVE](https://wave.webaim.org/) is a browser plugin that checks for common problems (some of which are described below)  
+Web pages are more typographically constrained than printed pages,
+so you should limit your design to things browsers can directly support,
+and you should use web markup in semantically correct ways.
+For example,
+you should only use heading tags for headings,
+not as a way to enlarge text,
+and should only use tables to display data,
+not to create two-column layouts for pages.
 
-- (Liz) [Microsoft](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) now has accessibility checking features in Word and maybe other Office software. 
+## Tip 4: Use tools to check for accessibility issues.
 
-- (Liz) [Microsoft](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) now has accessibility checking features in Word and maybe other Office software. Understand that these tools are not infallable, and often don't point out if a page is just hard to understand the layout and logic of because a screen reader presents information linearly regardless of how it appears on the screen. Ideally, humans would be engaged in accessibility testing, but their expertise needs to be compensated.
- 
-- (Silvia) [As shared by Liz on Twitter](https://twitter.com/DogGeneticsLLC/status/1442555621170192386?s=20), PDFs found in the wild are notorious for being inaccessible. If you _have_ to submit a document as a PDF (for example, a supplementary document (rule 9)), ensure that any accessibility practices you implement in the original document are not lost in the conversion process. WebAIM provides techniques for how to [convert to PDF and maintain accessibility](https://webaim.org/techniques/acrobat/converting#save).
+Accessibility guidelines can be overwhelming,
+even for people who are familiar with them,
+so use software tools to check for common problems.
+For example,
+[WebAIM WAVE](https://wave.webaim.org/) is a browser plugin that checks things like:
 
-## Tip 4: Design for print and the web.
+- web pages have title metadata
+- images have `alt` text
+- tables have headers
+- heading tags are used in the correct order
+  (i.e., the first is level 1, there are only level 2 headings directly below it)
+- text and background colors are different enough to be read easily
 
-FIXME
+[Microsoft Word](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) now comes with an accessibility checker as well.
+These tools are not infallible:
+for example,
+they often don't point whether a page's styling makes it hard to understand
+because screen readers present information linearly even when clever tricks with CSS
+rearrange the apparent order of material on the screen.
+However,
+by catching common issues they leave you more time to look at ones
+that still require human intervention.
 
-- The paper of the future might be an interactive computational notebook, but the paper of today is still exactly that: a paper
-
-- Even disregarding accessibility issues, saving an HTML page as a PDF usually doesn't produce an attractive result
-
-- (Liz) use HTML, Markdown, or other formatting semantically correctly. Use headings only as headings, not as a way to emphasize text. Use tables for the display of data, but not to lay out pages.
+PDFs found in the wild are notorious for being inaccessible.
+In particular,
+PDFs generated from PowerPoint slides are usually incomprehensible to screen readers,
+and almost always lack alt-text descriptions of diagrams, pictures, and data visualizations.
+If you have to submit a document as a PDF
+(for example, as a supplementary document as discussed in Tip 10),
+ensure that any accessibility aids you implement in the original document are not lost in the conversion process.
+WebAIM provides guidelines for [converting to PDF](https://webaim.org/techniques/acrobat/converting#save).
 
 ## Tip 5: Data visualization
 
