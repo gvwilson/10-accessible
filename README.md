@@ -112,23 +112,44 @@ If you have to submit a document as a PDF
 ensure that any accessibility aids you implement in the original document are not lost in the conversion process.
 WebAIM provides guidelines for [converting to PDF](https://webaim.org/techniques/acrobat/converting#save).
 
-## Tip 5: Data visualization
+## Tip 5: Describing visualizations helps everyone.
 
-FIXME
+Accessibility challenges for data visualization have often been thought of in terms of blindness or low vision.
+However,
+the cognitive load of figuring out complex visualizations is also a barrier for people who are neurodivergent,
+and the trend toward explorable (interactive) visualization in web publication
+makes life difficult for people with physical or motor challenges as well.
+As a rule of thumb,
+if you can't figure out how to write informative alt-text for your graph
+then that graph is probably too complex.
+And since most publishers don't support alt-text in print,
+you should include a complete written description of of your findings in the results section [Goring2017](#Goring2017).
 
-- (Liz) Data Visualization has often been thought of in terms of blindness or low vision. We say that if it's too hard to write an alt-text for your graph, it's probably too complex. I've come to understand that the cognitive load of figuring out complex visualizations is also a barrier for people with neurodivergence (per conversation with Silvia Canelón). 
+Simlarly,
+the "Methods" section of every paper should have enough information
+for the reader to replicate the study.
+This isn't accessibility-specific,
+but process descriptions that are presented as flow charts or diagrams
+should also be documented textually as well.
+Doing this will help search engines as well as people,
+which can only help increase readership [Lin202](#Lin2020).
 
-- (Liz) Since most publishers don't have space for alt-text anyway, complete verbal descriptions of findings in the results section  is suggested (this is what I aim for in my publications, although most of them don't have data viz.) This approach will help all sorts of people. This is discussed in this preprint [Making Scientific Content More Accessible](https://www.authorea.com/users/152134/articles/206076-making-scientific-content-more-accessible)  
+## Tip 6: Provide captions and transcripts for videos.
 
-- (Liz) Simlarly, I think processes that are conveyed in flow charts or diagrams need to also be documented verbally in the text because it gives people more choices of ways to comprehend the material
+Even before the COVID-19 lockdown,
+the move toward web-first scientific publication meant that
+a growing number of scientific publications referenced or included,
+and recorded lessons and conference talks are clearly here to stay.
+In order to be searchable as well as accessible,
+these should always include descriptive text and a transcript of what is being said.
+The former is needed by people who cannot see the video (or cannot see it well),
+while the latter helps people who cannot hear
+or might struggle to understand the language being used.
 
-## Tip 6: Methods section
-
-FIXME
-
-- (Liz) an accessible methods section has enough information for the reader to be able to replicate the study. This isn't really disability-specific. As the data person on my teams, I strive to include details about what kinds of models I used with what R packages or other software. I've worked with some statisticians who have an attitude that their work is just too specialized and complex to share in detail, and that does't help replicability or access for less senior scientists.
-
-- (Greg) If it isn't disability-specific, I think the editors will say that it's off-topic for this particular paper.
+Creating transcripts is not as time-consuming as it once was.
+Video hosting services like YouTube can use speech recognition to generate a starting point;
+while this invariably contains mistakes (particularly for technical jargon),
+editing this text is usually shorter than trying to transcribe the entire video yourself.
 
 ## Tip 7: Economic accessibility
 
@@ -171,10 +192,25 @@ James Charlton:
 University of California Press, 1998, 978-0520207950.
 </p>
 
+<p id="Goring2017" class="bib"><cite>Goring2017</cite>
+Simon Goring, Kaitlin Stack Whitney, Aerin Jacob, Emilio Bruna, and Timothée Poisot:
+"Making Scientific Content More Accessible."
+Authorea, Inc.,
+2017,
+https://doi.org/10.22541/au.150844289.92609826.
+</p>
+
 <p id="Johnson2017" class="bib"><cite>Johnson2017</cite>
 Jeff Johnson and Kate Finn:
 <em>Designing User Interfaces for an Aging Population: Towards Universal Design</em>.
 Morgan Kaufmann, 2017, 978-0128044674.
+</p>
+
+<p id="Lin2020" class="bib"><cite>Lin2020</cite>
+Sarah Lin, Ibraheem Ali, and Greg Wilson:
+"Ten quick tips for making things findable".
+<em>PLOS Computational Biology</em>, 16(12), 2020,
+<a class="doi" href="https://doi.org/10.1371/journal.pcbi.1008469">10.1371/journal.pcbi.1008469</a>.
 </p>
 
 <p id="UKHO" class="bib"><cite>UKHO</cite>
