@@ -1,4 +1,4 @@
-# Ten Quick Tips for Making a Scientific Publication More Accessible
+# Ten Quick Tips for Making Scientific Publications (or Presentations?) More Accessible
 
 [Silvia Canelón](https://silvia.rbind.io/),
 [Maya Gans](https://maya.rbind.io/),
@@ -112,7 +112,7 @@ If you have to submit a document as a PDF
 ensure that any accessibility aids you implement in the original document are not lost in the conversion process.
 WebAIM provides guidelines for [converting to PDF](https://webaim.org/techniques/acrobat/converting#save).
 
-## Tip 5: Describing visualizations helps everyone.
+## Tip 5: Describe visualizations---it helps everyone.
 
 Accessibility challenges for data visualization have often been thought of in terms of blindness or low vision.
 However,
@@ -123,7 +123,9 @@ As a rule of thumb,
 if you can't figure out how to write informative alt-text for your graph
 then that graph is probably too complex.
 And since most publishers don't support alt-text in print,
-you should include a complete written description of of your findings in the results section [Goring2017](#Goring2017).
+you should include a complete written description of of your findings in the results section
+[Goring2017](#Goring2017)
+[Lundgard2021](#Lundgard2021).
 
 Simlarly,
 the "Methods" section of every paper should have enough information
@@ -151,11 +153,27 @@ Video hosting services like YouTube can use speech recognition to generate a sta
 while this invariably contains mistakes (particularly for technical jargon),
 editing this text is usually shorter than trying to transcribe the entire video yourself.
 
-## Tip 7: Economic accessibility
+## Tip 7: Make publications open access.
 
-FIXME
+Open access does not level the academic playing field:
+reliance on article processing charges (APC) skews publication
+toward scholars with greater access to resources and job security [Olejniczak2020](#Olejniczak2020).
+More specifically,
+"…the likelihood for a scholar to author an APC OA article increases with male gender,
+employment at a prestigious institution…,
+association with a STEM discipline,
+greater federal research funding,
+and more advanced career stage (i.e., higher professorial rank)."
 
-- (Greg) If people can't afford to read the paper, it isn't "accessible". This isn't just a problem for researchers from less affluent countries: many non-elite institutions cannot afford access these days either, and practitioners outside academia usually don't have it, so open access is a must-have for true accessibility.
+However,
+people with disabilities are usually less affluent than people without,
+both because of the opportunities that are denied them
+as because they have to pay for aids and services that able people don't need.
+Paywalls are therefore an extra, unfair burden for the disabled,
+just as they are for people from less affluent countries and researchers at non-elite institutions.
+Simply put,
+if someone cannot afford to read an article,
+the presence or absence of captions and descriptive text is moot.
 
 ## Tip 8: Avoid general statements about how "we" as people tend to socialize or engage with the world.
 
@@ -211,6 +229,20 @@ Sarah Lin, Ibraheem Ali, and Greg Wilson:
 "Ten quick tips for making things findable".
 <em>PLOS Computational Biology</em>, 16(12), 2020,
 <a class="doi" href="https://doi.org/10.1371/journal.pcbi.1008469">10.1371/journal.pcbi.1008469</a>.
+</p>
+
+<p id="Lundgard2021" class="bib"><cite>Lundgard2021</cite>
+Alan Lundgard and Arvind Satyanarayan:
+"Accessible visualization via natural language descriptions: a four-level model of semantic content".
+<em>IEEE Transactions on Visualization and Computer Graphics</em>, 2021,
+<a class="doi" href="https://doi.org/10.1109/tvcg.2021.3114770">10.1109/tvcg.2021.3114770</a>.
+</p>
+
+<p id="Olejniczak2020" class="bib"><cite>Olejniczak2020</cite>
+Anthony J. Olejniczak and Molly J. Wilson:
+"Who's writing open access (OA) articles? Characteristics of {OA} authors at Ph.D.-granting institutions in the United States".
+<em>Quantitative Science Studies</em>, 4(1), 2020,
+<a class="doi" href="https://doi.org/10.1162/qss_a_00091">10.1162/qss_a_00091</a>.
 </p>
 
 <p id="UKHO" class="bib"><cite>UKHO</cite>
