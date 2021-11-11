@@ -196,9 +196,16 @@ Most of us have seen "Introduction, Methods, Results, and Discussion", helpful g
 
 
 ### Making Use of Bold Text
-I have been critiqued for my use of bold text in my work, but I know that it helps me to process what I am reading. I usually employ bold text for my research questions, hypotheses, and keywords present in any qualitative data. The goal of my writing, perhaps tailored to my own disability, is to be as obviously summarized as possible. 
+I have been critiqued for my use of bold text in my work, but I know that it helps me to process what I am reading. I usually employ bold text for my research questions, hypotheses, and keywords present in any qualitative data. The goal of my writing, perhaps tailored to my own disability, is to be as obviously summarized as possible. The autistic brain prunes connections between neurons less than the non-autistic brain. I often joke that autistic research often comes off as a conspiracy theory in the way we "link the red thread" together between our ideas. I often use bold text to highlight the important evidence for the main claims, and enjoy when I see it used in research papers. I would try to use bold text in a consistent manner, and less generously as headers. But it can be an important tool for linking together evidence to the main claims. 
 
-### RQs, Conclusions, and Main Contribution
+### Background, Research Questions, Methods, Main Contribution, and Ethical Considerations
+I have a color coded system for how I read any and all research papers. The way that I _read_ papers may be of interest for how to _write_ papers. Below is the schema I use when reading any academic articles. As I read, I highlight according to the schema and it guides what I am looking for and how I summarize everything that I read.
+
+* :orange_heart: Background, Literature Review, important things we "already know"
+* :heart: Research Questions (what is this paper going to try to answer?)
+* :green_heart: Methodology (main methods used, interesting methods I haven't heard of before, specific and relevant details of the method)
+* :blue_heart: Main Contribution (what did they determine? What are they giving us? What do we take away from this specific work?)
+* :purple_heart: Ethical Considerations (did they specifically address any bias? consider marginalized identities? Or is this sentence something that hints at lack of ethical consideration?)
 
 ## Tip 10: (Silvia) Ensure that supplemental information and data are accessible.
 
