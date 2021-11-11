@@ -207,7 +207,7 @@ I have a color coded system for how I read any and all research papers. The way 
 * :blue_heart: **Main Contribution** _(what did they determine? What are they giving us? What do we take away from this specific work?)_
 * :purple_heart: **Ethical Considerations** _(did they specifically address any bias? consider marginalized identities? Or is this sentence something that hints at lack of ethical consideration?)_
 
-Please note the use of bullet points, colors, bold text, and italic text in the above list. That is my autistic brain on a plate. Enjoy.
+Please note the use of bullet points, colors, bold text, and italic text in the above list. That is my autistic brain on a plate. Enjoy. _this is all written very informally I will be happy to edit it to sound professional, probably_
 
 ## Tip 10: (Silvia) Ensure that supplemental information and data are accessible.
 
