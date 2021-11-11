@@ -179,15 +179,21 @@ the presence or absence of captions and descriptive text is moot.
 
 FIXME
 
-- (Yim) Especially in computational social science or human computer interaction (HCI), I often read a lot of statements like "FIXME"
+- (Yim) Especially in computational social science or human computer interaction (HCI), our research tends to make comments on how people collaborate or interact with technology.
 
-- Working on this later after I find some quotes to demonstrate what I mean; I often come across statements about how people like to interact, or how we all want a similar thing (like being closer to one another or wanting more face to face interaction or wanting to be more productive or things like that). Well, I don't. I'll elaborate more once I find more examples, but it has to do with assuming "we" as people all desire the same kinds of social connection or have the same kind of expectations for social interactions.
+## Tip 9: Use formatting consistently and with numerous section headers (clearly differentiable in the text).
 
-## Tip 9: Be excrutiatingly clear on social aspects of your methods.
 
-FIXME
 
-- (Yim) working on this later, but basically it has to do with when I go to replicate some methods, there are social questions I have like: how did you really recruit? how did you decide which questions to ask? which parts were exploratory and which parts were answering a hypothesis or research question? who did what? Who is "we"? Not only will this be helpful for autistics but for any scientist ever
+### Keep the Outline
+As an autistic researcher and writer, the outline is the most important part of any written work for me. Nested in the various bullet points is the *structure* of the thoughts. A map of a comprehensive argument that really only needs additional evidence to bolster it's claims. At the end of the day, my brain is looking for a series of logical steps that concludes something; even if it's small or open-ended. 
+
+### Use a Story
+My brain is constantly looking out for anchors that ties one section to the next; a coherent story being told through research. In fact, I've even been known to use stories themselves to weave throughout the entire piece; using an exemplar persona or situation to carry the reader through the argument. Of course, no persona will capture a universal experience; but it will certainly explicitly tie the reader to this character's arc. Perhaps in traditional research when we make claims about people, we assume a certain level of implicit empathizing from the reader. While I am highly empathetic, my brain simply does not spontaneously think of anyone but my own perspective, as I lack skills in something called "theory of mind". Therefore, I need a story to hold on to. The persona or situation may be something I have connection to, and then it will not serve as a good narrative for me. But in my experience it is better to have some concrete example to weave throughout the research than to have open-ended possibilities.
+
+### Using Headers
+### Making Use of Bold Text
+### RQs, Conclusions, and Main Contribution
 
 ## Tip 10: (Silvia) Ensure that supplemental information and data are accessible.
 
