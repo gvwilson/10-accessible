@@ -175,15 +175,11 @@ Simply put,
 if someone cannot afford to read an article,
 the presence or absence of captions and descriptive text is moot.
 
-## Tip 8: Avoid general statements about how "we" as people tend to socialize or engage with the world.
+## Tip 8: Try not to go outside your own expertise, especially when it comes to disability or mental health.
 
-FIXME
-
-- (Yim) Especially in computational social science or human computer interaction (HCI), our research tends to make comments on how people collaborate or interact with technology.
+- (Yim) Especially in computational social science or human computer interaction (HCI), we deal with complex topics such as mental health, disability, discrimination, cyberbullying, politics, and more. Almost certainly there will be design recommendations or analyses of mental health that are done by computer scientists without the relevant expertise. In Human Computer Interaction we seem to encourage the idea that we can be psychologists, designers, software engineers, and policymakers all from our laptops. This is usually not the hubris of an individual, but the general culture of social tech in academia: the "there's an app for that" mentality. Reviewers may even ask "what are the design recommendations?" at the end of each piece of research. Mentors may encourage students into areas they have no business being in. Due to lack of funding or strict deadlines, researchers may not adequately consult the experts actually necessary for the work. The culture of academia seems to be pushing us all to have an answer, an app, a social commentary, and a research plan in order to "help" others and "help" society. Our main concern should be helping people to represent themselves. As an autistic individual who has worked very hard on my own self-advocacy skills, there is no greater gift than helping others speak up for themselves. When in doubt, amplify the work of those most affected by a phenomenon. Never make design or policy recommendations outside of your own expertise.
 
 ## Tip 9: Use formatting consistently and with numerous section headers (clearly differentiable in the text).
-
-
 
 ### Keep the Outline
 As an autistic researcher and writer, the outline is the most important part of any written work for me. Nested in the various bullet points is the *structure* of the thoughts. A map of a comprehensive argument that really only needs additional evidence to bolster it's claims. At the end of the day, my brain is looking for a series of logical steps that concludes something; even if it's small or open-ended. When I read long paragraphs of prose, I tend to get distracted and confused about the main takeaways, or how it fits the overarching narrative. Having the outline still visible instead of assumed really helps me to keep reading. What I mean by "still visible" is clear headers and topics, and my personal preference is for lots of lists and tables (formatted to be screenreader accessible). Refer to Using Headers below.
@@ -201,11 +197,13 @@ I have been critiqued for my use of bold text in my work, but I know that it hel
 ### Background, Research Questions, Methods, Main Contribution, and Ethical Considerations
 I have a color coded system for how I read any and all research papers. The way that I _read_ papers may be of interest for how to _write_ papers. Below is the schema I use when reading any academic articles. As I read, I highlight according to the schema and it guides what I am looking for and how I summarize everything that I read.
 
-* :orange_heart: Background, Literature Review, important things we "already know"
-* :heart: Research Questions (what is this paper going to try to answer?)
-* :green_heart: Methodology (main methods used, interesting methods I haven't heard of before, specific and relevant details of the method)
-* :blue_heart: Main Contribution (what did they determine? What are they giving us? What do we take away from this specific work?)
-* :purple_heart: Ethical Considerations (did they specifically address any bias? consider marginalized identities? Or is this sentence something that hints at lack of ethical consideration?)
+* :orange_heart: **Background, Literature Review** _(important things we "already know" that are relevant to this paper's RQs)_
+* :heart: **Research Questions** _(what is this paper going to try to answer?)_
+* :green_heart: **Methodology** _(main methods used, interesting methods I haven't heard of before, specific and relevant details of the method)_
+* :blue_heart: **Main Contribution** _(what did they determine? What are they giving us? What do we take away from this specific work?)_
+* :purple_heart: **Ethical Considerations** _(did they specifically address any bias? consider marginalized identities? Or is this sentence something that hints at lack of ethical consideration?)_
+
+Please note the use of bullet points, colors, bold text, and italic text in the above list. That is my autistic brain on a plate. Enjoy.
 
 ## Tip 10: (Silvia) Ensure that supplemental information and data are accessible.
 
