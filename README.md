@@ -127,7 +127,7 @@ you should include a complete written description of of your findings in the res
 [Goring2017](#Goring2017)
 [Lundgard2021](#Lundgard2021).
 
-Simlarly,
+Similarly,
 the "Methods" section of every paper should have enough information
 for the reader to replicate the study.
 This isn't accessibility-specific,
@@ -135,6 +135,12 @@ but process descriptions that are presented as flow charts or diagrams
 should also be documented textually as well.
 Doing this will help search engines as well as people,
 which can only help increase readership [Lin202](#Lin2020).
+
+Consider accompanying visualizations with a
+clear tabular representation of key data points, 
+possibly in a supplementary document as described in tip 10. 
+These supplementary tables could be referenced within the manuscript
+along with the figure reference and/or in the figure caption (e.g. Figure 2, eTable 2)
 
 ## Tip 6: Provide captions and transcripts for videos.
 
@@ -209,18 +215,17 @@ I have a color coded system for how I read any and all research papers. The way 
 
 Please note the use of bullet points, colors, bold text, and italic text in the above list. That is my autistic brain on a plate. Enjoy. _this is all written very informally I will be happy to edit it to sound professional, probably_
 
-## Tip 10: (Silvia) Ensure that supplemental information and data are accessible.
+## Tip 10: Ensure that supplemental information and data are accessible.
 
-FIXME
+Journals will vary in their editing and publishing practices and often publish supplementary documents "as is," which means you get to make the editorial and design decisions that readers will experience while reading. With this in mind, implement accessibility practices in the creation of any supplementary documents and treat them with the same care as you do the manuscript. Some of these practices are highlighted in tip 3, like using heading tags for headings.
 
-- Implement accessibility practices in the creation of any supplementary documents and treat them with the same care as the manuscript.
-- Journals will vary in their editing and publishing practices and often publish supplementary documents "as is," which means you get to make the editorial and design decisions that readers will experience while reading
-- As mentioned in rule 3, make sure the supplementary documents are formatted to take advantage of proper semantic formatting.
-- During the revision/submission process, ask the journal to publish the version of the supplementary file that is most accessible (e.g. if you submit an accessible Word document and are concerned the journal might publish an inaccessible PDF conversion, specify that you'd like the Word document published and why). Alternatively, consider housing the supplementary information and data in HTML format in an online repository or website (as per rule 2) that can be linked somewhere in the manuscript or reference list.
-- Include a clear tabular representation of the key data points for any data visualizations included ([example: WebAIM findings from screen reader user survey](https://webaim.org/projects/screenreadersurvey9/#disabilitytypes)), and reference them within the manuscript along with the figure reference and/or in the figure caption (e.g. Figure 2, eTable 2)
-- Include context on the first page of the supplementary document (possibly also in the header or footer), like the manuscript title, journal, and first author so that the reader can always check which manuscript the supplementary document corresponds to.
-- Include a functional table of contents in the first page of the supplementary document. Use it to provide direct links to headings that correspond to each figure and/or table. This will help readers navigate the document and quickly find what they are looking for.
-- Use an accessible font face and font size throughout the document. Gareth Ford Williams from [The Readibility Group](https://www.thereadability.group/) has written [guidelines on how to make more informed font choices](https://medium.com/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0). The Readibility Group has also shared findings from a survey study about font preferences which included 2000+ participants. Among these were participants with dyslexia characteristics and participants with poor near vision. The talk is available online and titled [Don't Believe the Type!](https://youtu.be/h8IOqUl1zII?t=1029)
+Just as you take care to orient the reader in a manuscript's abstract and introduction, orient them to the information in the supplementary file on the first page of the file. Include contextual information about the manuscript and a functional table of contents. The contextual information can include details like the manuscript title, journal, and first author re-orients the reader to the proper manuscript. The table of contents can provide direct links to headings in the document that correspond to each figure and/or table, helping readers navigate the document and quickly find what they are looking for.
+
+If you supplement visualization descriptions (see tip 5) with a tabular representation of the data, include only the key data points. An example of this approach can be found in the [WebAIM findings from screen reader user survey](https://webaim.org/projects/screenreadersurvey9/#disabilitytypes).
+
+Use an accessible font size and font face throughout the document. Readers will likely be able to magnify or rescale text to suit their preference, but all text in your document should be a reasonable size to begin with. When it comes to accessible font faces, you will find a great resource in the [guidelines on how to make more informed font choices](https://medium.com/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0) written by Gareth Ford Williams from [The Readibility Group](https://www.thereadability.group/). The Readibility Group has also shared findings from a survey study about font preferences which included 2000+ participants. Among these were participants with dyslexia characteristics and participants with poor near vision. The talk is available online and titled [Don't Believe the Type!](https://youtu.be/h8IOqUl1zII?t=1029).
+
+At this point you have made considerable effort to make the supplementary file as accessible as possible. The last thing you want is for your effort to be undermined by a lack of communication with the journal about accessibility. Once your paper is in the revision/submission process, ask the journal to publish the version of the supplementary file that is most accessible. The journal may not be implementing accessibility practices in all areas, so consider communicating why accessibility is important to you and to the journal's readership. You might also consider housing the supplementary information and data in HTML format in an online repository or website that can be linked somewhere in the manuscript or reference list.
 
 ## Bibliography
 
