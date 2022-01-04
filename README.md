@@ -278,12 +278,10 @@ UK Home Office:
 ## Appendix 1: UKHO Checklist
 
 <table>
+  <caption>For people on the autistic spectrum</caption>
   <tr>
-    <th colspan="2">For people on the autistic spectrum</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>use simple colors</td>
@@ -305,12 +303,13 @@ UK Home Office:
     <td>build simple and consistent layouts</td>
     <td>build complex and cluttered layouts</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users of screen readers</caption>
   <tr>
-    <th colspan="2">For users of screen readers</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>describe images and provide transcripts for video</td>
@@ -332,12 +331,13 @@ UK Home Office:
     <td>write descriptive links and headings</td>
     <td>write uninformative text like "click here"</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users with low vision</caption>
   <tr>
-    <th colspan="2">For users with low vision</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>use good color contrast and a readable font size</td>
@@ -355,12 +355,13 @@ UK Home Office:
     <td>put buttons and notifications in context</td>
     <td>separate controls and actions from their context</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users with dyslexia</caption>
   <tr>
-    <th colspan="2">For users with dyslexia</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>use images and diagrams to support text</td>
@@ -378,12 +379,13 @@ UK Home Office:
     <td>offer autocorrection hints</td>
     <td>require exact spelling</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users with physical or motor challenges</caption>
   <tr>
-    <th colspan="2">For users with physical or motor challenges</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>make large clickable actions</td>
@@ -405,12 +407,13 @@ UK Home Office:
     <td>provide shortcuts and auto-fill</td>
     <td>require a lot of typing and scrolling</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users who are deaf or hard of hearing</caption>
   <tr>
-    <th colspan="2">For users who are deaf or hard of hearing</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>write in plain language</td>
@@ -428,12 +431,13 @@ UK Home Office:
     <td>break up content with sub-headings, images, and videos</td>
     <td>create a wall of text</td>
   </tr>
+</table>
+
+<table>
+  <caption>For users with anxiety or post-traumatic stress</caption>
   <tr>
-    <th colspan="2">For users with anxiety or post-traumatic stress</th>
-  </tr>
-  <tr>
-    <th>Do</th>
-    <th>Don't</th>
+    <th scope="col">Do</th>
+    <th scope="col">Don't</th>
   </tr>
   <tr>
     <td>give users lots of time to complete actions</td>
